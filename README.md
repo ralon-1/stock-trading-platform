@@ -1,4 +1,4 @@
-# Zerodha Clone
+# Stock Trading Platform
 
 An educational **MERN-stack** clone of [Zerodha](https://zerodha.com) — India's largest stock broker. The repo is split into three independent apps: a Node/Express + MongoDB **backend API**, a React **marketing/landing site** (the public zerodha.com pages), and a React + Material UI **trading dashboard** (a Kite-style portfolio UI) that is currently scaffolded but not yet built out.
 
